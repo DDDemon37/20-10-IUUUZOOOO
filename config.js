@@ -1,20 +1,17 @@
+
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "IuuuuuZooooo",
+    introTitle: 'Zợ ớiiiiiii',
+    introDesc: `^^ Chúc zợ 20 tháng 10 zui zẻ nà, hong quạo nà, cứ xinh đẹp hơn từng phút giây trong lòng anh như này nà.IUUUUUUUUU EMMMMMMM`,
+    btnIntro: 'Anh mún nói 1 cái này nựa',
+    title: 'Mấy nay có nhìu cái anh làm rùi thêm cả thời tiết ròi các thứ làm zợ hong zui nựa. ',
+    desc: 'Anh chin lũi zợ gất nhìu, zợ tha lũi cho anh nhaaaaaa',
+    btnYes: 'Bít òi, hong quạo anh nựa. Nhưng mà vẫn hơi zũi, anh lo mà dỗ em đi',
+    btnNo: 'HONG, ZŨI TIẾP, ANH LO MÀ DỖ EM',
+    question: '^^ YEAHHHHHH, tối anh đền bù cho zợ nhớ, giờ zợ nghỉ ngơi xong tối mình làm gì nạ',
+    btnReply: '💗 Iuuuuuuuuuu 💗',
+    reply: 'Tối nay mình đi măm măm rùi đi tô màu hoặc coi fim nhá :333',
+    mess: '^^ Anh bít òi, em nghỉ ngơi ii, 20 tháng 10 iuuuuu zợ muah muah muahhhhhh',
+    messDesc: 'Tối nay nào em dậy hay đói nói anh nhaaa, anh vèo vèo qua liền hong để trễ như hum bữa âuuuuu',
+    btnAccept: 'Iuuuu anhhh 💟',
 }
